@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="readandsolvesatcnf" category="opl">
+			<ref name="readandsolvesatcnf.mod" type="model">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
