@@ -5,6 +5,10 @@
 			<ref name="readandsolvesatcnf.mod" type="model">
 			</ref>
 		</config>
+		<config default="false" name="histogram" category="opl">
+			<ref name="histogram.mod" type="model">
+			</ref>
+		</config>
 	</configs>
 	
 </project>
