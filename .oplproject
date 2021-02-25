@@ -9,6 +9,12 @@
 			<ref name="histogram.mod" type="model">
 			</ref>
 		</config>
+		<config default="false" name="fitting2lines" category="opl">
+			<ref name="fitting2lines.mod" type="model">
+			</ref>
+			<ref name="fitting2lines.dat" type="data">
+			</ref>
+		</config>
 	</configs>
 	
 </project>
