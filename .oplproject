@@ -1,24 +1,48 @@
 <?xml version="1.0" encoding="ASCII"?><project>
-	<version>1.0</version>
-	<configs>
-		<config default="true" name="readandsolvesatcnf" category="opl">
-			<ref name="readandsolvesatcnf.mod" type="model">
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="readandsolvesatcnf" category="opl">
+            			
+            <ref name="readandsolvesatcnf.mod" type="model">
 			</ref>
-		</config>
-		<config default="false" name="histogram" category="opl">
-			<ref name="histogram.mod" type="model">
+            		
+        </config>
+        		
+        <config default="false" name="histogram" category="opl">
+            			
+            <ref name="histogram.mod" type="model">
 			</ref>
-		</config>
-		<config default="false" name="fitting2lines" category="opl">
-			<ref name="fitting2lines.mod" type="model">
+            		
+        </config>
+        		
+        <config default="false" name="fitting2lines" category="opl">
+            			
+            <ref name="fitting2lines.mod" type="model">
 			</ref>
-			<ref name="fitting2lines.dat" type="data">
+            			
+            <ref name="fitting2lines.dat" type="data">
 			</ref>
-		</config>
-		<config default="false" name="usepythonfunctioninopl" category="opl">
-			<ref name="usepythonfunctioninopl.mod" type="model">
+            		
+        </config>
+        		
+        <config default="false" name="usepythonfunctioninopl" category="opl">
+            			
+            <ref name="usepythonfunctioninopl.mod" type="model">
 			</ref>
-		</config>
-	</configs>
-	
+            		
+        </config>
+        		
+        <config default="false" name="sortdecisionvariables" category="opl">
+            			
+            <ref name="sortdecisionvariables.mod" type="model">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
 </project>
