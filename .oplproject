@@ -41,6 +41,13 @@
 			</ref>
             		
         </config>
+        		
+        <config default="false" name="sortdecisionvariablesMP" category="opl">
+            			
+            <ref name="sortdecisionvariablesMP.mod" type="model">
+			</ref>
+            		
+        </config>
         	
     </configs>
     	
