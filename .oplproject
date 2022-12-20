@@ -48,6 +48,20 @@
 			</ref>
             		
         </config>
+        		
+        <config default="false" name="ifslowerthanslicing1" category="opl">
+            			
+            <ref name="ifslowerthanslicing1.mod" type="model">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="ifslowerthanslicing2" category="opl">
+            			
+            <ref name="ifslowerthanslicing2.mod" type="model">
+			</ref>
+            		
+        </config>
         	
     </configs>
     	
