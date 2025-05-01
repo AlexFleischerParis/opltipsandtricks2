@@ -62,6 +62,20 @@
 			</ref>
             		
         </config>
+        		
+        <config default="false" name="labs" category="opl">
+            			
+            <ref name="labs.mod" type="model">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="labs2" category="opl">
+            			
+            <ref name="labs2.mod" type="model">
+			</ref>
+            		
+        </config>
         	
     </configs>
     	
